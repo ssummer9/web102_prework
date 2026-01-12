@@ -18,11 +18,12 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
-      none listed.
+      none.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+https://github.com/ssummer9/web102_prework/blob/main/web102cp252.gif
 
 
 
